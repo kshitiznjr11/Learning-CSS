@@ -1,4 +1,19 @@
-/*this is a comment*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+#nav {
+    background-color: aquamarine;
+    text-align: center;
+    text-transform: capitalize;
+}
+#inner {
+    font-size: 10px;
+}
+#outer {
+    font-size: 25px;
+}*this is a comment*/
 
 #heading {
     color: blueviolet;
